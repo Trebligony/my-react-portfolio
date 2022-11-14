@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Note Taker App",
+    "image": "/images/note-taker.png",
+    "github": "https://github.com/Trebligony/note-taker/",
+    "deploy": "https://good-note-taker-app.herokuapp.com/notes/",
+    "topics": "The task was to create an application that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file."
+  },
+  {
+    "id": 2,
+    "name": "Tech Blog App",
+    "image": "images/tech-blog.png",
+    "github": "https://github.com/Trebligony/tech-blog/",
+    "deploy": "https://tech-bloggerapp.herokuapp.com/",
+    "topics": "The task is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well."
+  },
+  {
+    "id": 3,
+    "name": "Just A Text Editor App",
+    "image": "images/jate.png",
+    "github": "https://github.com/Trebligony/text-editor-app/",
+    "deploy": "https://just-text-editor-app.herokuapp.com/",
+    "topics": "The task was to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline."
+  },
+  {
+    "id": 4,
+    "name": "Events Funding App",
+    "image": "images/event-app.png",
+    "github": "https://github.com/Trebligony/Event-Funding-App/",
+    "deploy": "https://events-funding-app.herokuapp.com/",
+    "topics": "The task was to build a full-stack one stop marketplace app for event engineering, planning and execution using Node.js, Express.js, Sequelize, Handlebars.js, and MVC architecture."
+  }
+]

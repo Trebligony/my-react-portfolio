@@ -72,16 +72,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ### App Screenshots
 
-<img src="/images/about.png">
+<img src="public/images/about.png">
 
-
-<img src="./assets/00-manifest.jpg">
-
-
-<img src="./assets/00-service-worker.jpg">
-
-
-<img src="./assets/00-idb-storage.jpg">
 
 
 

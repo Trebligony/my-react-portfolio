@@ -75,6 +75,15 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <img src="public/images/about.png">
 
 
+<img src="public/images/portfolio.png">
+
+
+<img src="public/images/contact.png">
+
+
+<img src="public/images/resume.png">
+
+
 
 
 # GitHub Repository link

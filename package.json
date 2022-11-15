@@ -1,6 +1,6 @@
 {
   "homepage": "https://trebligony.github.io/my-react-portfolio/",
-  "name": "my-react-portfolio",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
